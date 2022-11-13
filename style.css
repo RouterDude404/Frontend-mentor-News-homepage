@@ -265,7 +265,7 @@ nav {
 
 @media screen and (max-width: 841px) {
   .main-image {
-    background-image: url(/assets/images/image-web-3-mobile.jpg);
+    background-image: url(./assets/images/image-web-3-mobile.jpg);
   }
 
   .container {
