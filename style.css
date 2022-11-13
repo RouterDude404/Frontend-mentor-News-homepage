@@ -109,7 +109,7 @@ nav {
   width: 100%;
   background-size: cover;
   background-position: center;
-  background-image: url(/assets/images/image-web-3-desktop.jpg);
+  background-image: url(./assets/images/image-web-3-desktop.jpg);
   grid-column: 1 / 3;
 }
 
