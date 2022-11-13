@@ -194,22 +194,22 @@ nav {
 .small-Card-paragh {
   color: var(--dark-grayish-blue);
 }
+gi
+/* hover states  */
 
-/* active states  */
-
-.card__btn--read-more:active {
+.card__btn--read-more:hover {
   background-color: var(--very-dark-blue);
 }
 
-.smallCard__primaryText:active {
+.smallCard__primaryText:hover {
   color: var(--soft-red);
 }
 
-.nav-links li a:active {
+.nav-links li a:hover {
   color: var(--soft-red);
 }
 
-.card__title--seccondary:active {
+.card__title--seccondary:hover {
   color: var(--soft-orange);
 }
 
